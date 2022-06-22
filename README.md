@@ -1,7 +1,7 @@
 # AuthenticKeys
 A GUI that allows you to make authentic keys using upper and lower case letters, numbers and symbols(WIP!).
 
-A 'key' is split into sections called parts and seperators.
+A 'key' is split into sections called parts and seperators, see below for an example.
 
 5de42-dnnvt-32rj£ 
 
